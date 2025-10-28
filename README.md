@@ -22,10 +22,10 @@ Q: How many triangles are in the model?
 A: There are well over 100,000 triangles in the model.
 
 Q: Can I use this model?
-A: Yes. You can use it in VR programs, games, and videos. You may _not_, though, use it in any work that is violent/gory, pornographic, or political. Also, the 3D model must be distributed as-is; no editing of the model may be done. This decision may change later, though.
+A: Yes. You can use it in VR programs, games, and videos. You may _not_, though, use it in any work that is violent/gory, pornographic, or political. Also, the 3D model must be distributed as-is; no editing of the model may be done. This decision may change in the future, though.
 
 Q: Why did you only distribute it through GitHub?
-A: Most VR model distribution platforms like vrmodels and Sketchfab require an account to download the file. Others like Live3D don't support the license I want to use (that, and you have to set up other accounts just to list a model for free). I wanted to distribute this model in a way where the user only needs to click "download" and I can release the model under a license of my choice.
+A: Most VR model distribution platforms (like VRModels and Sketchfab) require an account to download the file. Others like Live3D don't support the license I want to use (that, and you have to set up other accounts just to list a model for free). I wanted to distribute this model in a way where the user only needs to click "download" and I can release the model under a license of my choice.
 
 # License
 
