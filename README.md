@@ -1,3 +1,7 @@
+<video controls>
+  <source src="3D Eimi walking.mp4" type="video/mp4">
+</video>
+
 # Introduction
 
 This is an [Eimi Isami](https://www.youtube.com/@eimiisami) VR model that I made over the course of a year. It will work in some VR programs, though I have only tested it on a few (I mostly tested it on [Snek Studio](https://snekstudio.com/)). The model is _mostly_ textured; I used some shaders like the MToon shader to fill in the blanks. Also, the model is rigged; it has a skeletal structure, as well as blend shapes for facial animations. A user can probably do motion capture with the model, or pose it in various ways.
